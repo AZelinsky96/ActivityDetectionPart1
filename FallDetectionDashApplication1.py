@@ -88,7 +88,7 @@ app.layout = html.Div(children = [
                         feature selection and extraction, as well as various machine learning algorithms to build a classifier for human activity recognition. 
                         The project is divided into separate components: \n\n\n\n \t 1: Initial Exploratory Data Analysis \n\n  \t 2: Feature Selection \n\n \t 3: Feature Extraction
                         \n\n\n\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Through each section, I train and assess different machine learning algorithms to explore how well they perform given different data formats. I utilize confusion matrices, 
-                        and roc plots to assess how well each model performs. \n\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The associated live visualization 
+                        and roc plots to assess how well each model performs. \n\n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The associated live visualization 
                         can be found here: \n\n https://activity-detection-ml2.herokuapp.com/
                         
                         
